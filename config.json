@@ -1,5 +1,4 @@
 {
-  // access token is set as a repo secret
   "server": "mastodon.maurovanetti.info",
   "home-timeline-length": 200,
   "max-followings": 3,
