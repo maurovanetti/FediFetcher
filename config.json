@@ -1,6 +1,6 @@
 {
   "server": "mastodon.maurovanetti.info",
-  "home-timeline-length": 200,
+  "home-timeline-length": 10,
   "max-followings": 3,
   "from-notifications": 1
 }
